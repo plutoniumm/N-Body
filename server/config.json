@@ -1,0 +1,9 @@
+{
+    "endpoints": [
+        {
+            "name": "T33",
+            "url": "/T33",
+            "folder": "../T33"
+        }
+    ]
+}
