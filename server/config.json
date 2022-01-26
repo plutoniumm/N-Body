@@ -1,4 +1,5 @@
 {
+    "default": "./",
     "endpoints": [
         {
             "name": "T33",
