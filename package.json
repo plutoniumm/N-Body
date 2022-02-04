@@ -14,8 +14,8 @@
   "author": "Plutoniumm",
   "license": "MIT",
   "devDependencies": {
-    "express": "^4.17.1",
-    "webpack": "^5.67.0",
-    "webpack-cli": "^4.9.2"
+    "express": "4.17.2",
+    "webpack": "5.68.0",
+    "webpack-cli": "4.9.2"
   }
 }
